@@ -278,20 +278,28 @@
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-98" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1310" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-99" value="$$\bar{E}_t(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1120" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-100" value="$$\bar{k}(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="1040" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4KfQx-BjgFMVUmOHCYbj-95" target="4KfQx-BjgFMVUmOHCYbj-98">
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4KfQx-BjgFMVUmOHCYbj-99" target="4KfQx-BjgFMVUmOHCYbj-98">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="1150" as="sourcePoint" />
             <mxPoint x="530" y="1100" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="1280" />
+              <mxPoint x="440" y="1280" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4KfQx-BjgFMVUmOHCYbj-95" target="4KfQx-BjgFMVUmOHCYbj-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1250" as="sourcePoint" />
+            <mxPoint x="440" y="1310" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-99" value="$$\bar{E}_t(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
