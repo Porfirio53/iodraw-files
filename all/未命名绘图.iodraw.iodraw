@@ -269,7 +269,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-95" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-95" value="&lt;font face=&quot;Times New Roman&quot;&gt;E-Scale&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-96" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -316,7 +316,7 @@
           <mxGeometry x="260" y="1320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-112" value="$$q_t^{NBV}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1090" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="1305" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
