@@ -272,7 +272,7 @@
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-95" value="&lt;font face=&quot;Times New Roman&quot;&gt;E-Scale&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-96" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-96" value="&lt;font face=&quot;Times New Roman&quot;&gt;Cluster Count&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="1220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-98" value="$$E&#39;_t(x,y)=(1-\alpha)\bar{E}_t(x,y)+\alpha\bar{k}(x,y)$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
