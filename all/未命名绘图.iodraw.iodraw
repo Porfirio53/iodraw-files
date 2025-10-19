@@ -279,7 +279,7 @@
           <mxGeometry x="370" y="1310" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-99" value="$$\bar{E}_t(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1120" width="50" height="20" as="geometry" />
+          <mxGeometry x="380" y="1260" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-100" value="$$\bar{k}(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="1040" width="60" height="30" as="geometry" />
