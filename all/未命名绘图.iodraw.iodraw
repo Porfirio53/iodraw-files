@@ -209,10 +209,40 @@
           <mxGeometry x="330" y="990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-80" value="$$E_t(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="980" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-81" value="$$\widehat{\theta}(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-82" value="&lt;font face=&quot;Times New Roman&quot;&gt;Entropy Cal.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1010" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-83" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="4KfQx-BjgFMVUmOHCYbj-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1030" as="sourcePoint" />
+            <mxPoint x="430" y="1340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4KfQx-BjgFMVUmOHCYbj-82" target="4KfQx-BjgFMVUmOHCYbj-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1390" as="sourcePoint" />
+            <mxPoint x="170" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-85" value="&lt;font face=&quot;Times New Roman&quot;&gt;Score&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1010" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4KfQx-BjgFMVUmOHCYbj-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1310" as="sourcePoint" />
+            <mxPoint x="650" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-87" value="$$q_0$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
