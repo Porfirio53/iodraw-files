@@ -294,6 +294,15 @@
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-104" value="$$\bar{k}(x,y)$$" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="660" y="1240" width="50" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4KfQx-BjgFMVUmOHCYbj-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1150" as="sourcePoint" />
+            <mxPoint x="440" y="1280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
