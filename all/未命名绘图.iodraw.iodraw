@@ -208,8 +208,8 @@
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-79" value="$$\Delta H_t(x,y,\theta)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="990" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-80" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="960" width="60" height="30" as="geometry" />
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-80" value="$$E_t(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="980" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
