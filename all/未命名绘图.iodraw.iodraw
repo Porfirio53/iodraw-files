@@ -260,6 +260,12 @@
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-90" value="$$E_t(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-91" value="$$\widehat{\theta}(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-92" value="$$\Delta H_t(x,y,\theta)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
