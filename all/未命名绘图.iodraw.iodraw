@@ -119,7 +119,7 @@
           <mxGeometry x="330" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-35" value="$$q_t^{Frontier}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="725" width="60" height="30" as="geometry" />
+          <mxGeometry x="580" y="725" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;Raycast IG (distance-weighted)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="720" width="100" height="40" as="geometry" />
