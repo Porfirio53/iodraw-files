@@ -70,12 +70,6 @@
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$\arg\max_{q\in S_t^{Frontier}}IG(q)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="339.5" as="sourcePoint" />
-            <mxPoint x="270" y="339.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
