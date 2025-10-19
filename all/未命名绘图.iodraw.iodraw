@@ -67,7 +67,7 @@
             <mxPoint x="280" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$\arg\min_{q\in S_t|x-x_{\mathrm{rand}}|$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$\arg\min_{q\in S_t^{Frontier}}|x-x_{\mathrm{rand}}|$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
