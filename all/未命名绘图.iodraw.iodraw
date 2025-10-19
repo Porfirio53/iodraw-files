@@ -313,7 +313,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-111" value="$$\widehat{\theta&#39;}(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1460" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="1320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-112" value="$$q_t^{NBV}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1090" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
