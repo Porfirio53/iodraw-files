@@ -97,7 +97,7 @@
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-30" value="$$q_t^{Frontier}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="645" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-31" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Frontier&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-31" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 18px;&quot;&gt;RRT Expand&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="4KfQx-BjgFMVUmOHCYbj-31">
