@@ -191,7 +191,7 @@
           <mxGeometry x="640" y="1005" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-74" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$G({M}, {m}_k) = \sum_{i=0}^{n}e^{-\gamma(1 - 2p({m}_k^i))}) $$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1000" width="180" height="40" as="geometry" />
+          <mxGeometry x="400" y="1000" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4KfQx-BjgFMVUmOHCYbj-74" target="4KfQx-BjgFMVUmOHCYbj-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
