@@ -190,7 +190,7 @@
             <mxPoint x="160" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-73" value="$$q_t^{NBV}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-73" value="$$q_t^{entropy}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="1080" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-74" value="&lt;font face=&quot;Times New Roman&quot;&gt;Score&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -242,7 +242,7 @@
           <mxGeometry x="400" y="1150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-87" value="$$q_0$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="1160" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="1160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-89" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -323,7 +323,7 @@
           <mxGeometry x="410" y="1410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-1" value="$$\mathcal{G}\subset\mathbb{Z}^2$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1140" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="1140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Diversity IG&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="480" y="1360" width="65" height="20" as="geometry" />
