@@ -322,8 +322,8 @@
         <mxCell id="DPHO6qK32BSScO_TgHHg-1" value="$$\mathcal{G}\subset\mathbb{Z}^2$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="1140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-3" value="Diversity IG" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="645" y="1420" width="50" height="10" as="geometry" />
+        <mxCell id="DPHO6qK32BSScO_TgHHg-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Diversity IG&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="645" y="1420" width="65" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
