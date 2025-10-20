@@ -103,8 +103,8 @@
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-35" value="$$q_t^{nbv}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="725" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$G(\mathcal{G}, m_k)=\sum_{u\in\mathcal{U}_{\mathrm{vis}}(\mathcal{G}, m_k)} d(m_k, u)$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="720" width="240" height="40" as="geometry" />
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-36" value="&lt;font face=&quot;Helvetica&quot;&gt;$$G(\mathcal{G}, m_k)=\sum_{u\in\mathcal{U}_{\mathrm{vis}}(\mathcal{G}, m_k)} d(m_k, u)$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="720" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4KfQx-BjgFMVUmOHCYbj-36" target="4KfQx-BjgFMVUmOHCYbj-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
