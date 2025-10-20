@@ -217,7 +217,7 @@
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-81" value="$$\widehat{\theta}(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="1040" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-82" value="&lt;font face=&quot;Times New Roman&quot;&gt;Entropy Cal.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-82" value="&lt;font face=&quot;Times New Roman&quot;&gt;Entropy Calculator&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-83" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="4KfQx-BjgFMVUmOHCYbj-82" edge="1">
