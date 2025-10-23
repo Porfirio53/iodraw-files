@@ -366,10 +366,13 @@
         <mxCell id="DPHO6qK32BSScO_TgHHg-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;Path&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;Entropy&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="390" y="1640" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="DPHO6qK32BSScO_TgHHg-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DPHO6qK32BSScO_TgHHg-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="1530" as="sourcePoint" />
             <mxPoint x="530" y="1480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="1510" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
