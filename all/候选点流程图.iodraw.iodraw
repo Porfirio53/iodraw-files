@@ -402,7 +402,7 @@
         <mxCell id="DPHO6qK32BSScO_TgHHg-33" value="$$q_t^{entropy}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="1640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-34" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Classic&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DPHO6qK32BSScO_TgHHg-34" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Ours&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="1680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -434,7 +434,7 @@
         <mxCell id="DPHO6qK32BSScO_TgHHg-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;Map Entropy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1710" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-40" value="$$\Delta H_{\text{path}}(q)=\sum_{p:q\in \text{match_area}(p)} \tfrac{1}{2}\ln\frac{|S_{pq}(q)|}{|\Sigma_y|} $$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DPHO6qK32BSScO_TgHHg-40" value="$$\Delta H_{\text{path}}(q)=\sum_{p:q\in \text{match_area}(p)}\phi_{\text{vis}}\cdot \tfrac{1}{2}\ln\frac{|S_{pq}(q)|}{|\Sigma_y|} $$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1780" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-41" value="&lt;font face=&quot;Times New Roman&quot;&gt;Path&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;&amp;nbsp;Entropy&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
