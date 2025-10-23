@@ -453,7 +453,7 @@
           <mxGeometry x="365" y="1700" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-45" value="$$\Delta H_{\text{path}}(q)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1880" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="1810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;Joint Gain Calculator&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1750" width="80" height="40" as="geometry" />
