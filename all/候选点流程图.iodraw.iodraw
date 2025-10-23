@@ -357,8 +357,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1510" width="120" height="60" as="geometry" />
+        <mxCell id="DPHO6qK32BSScO_TgHHg-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;Entropy Calculator&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
