@@ -467,6 +467,12 @@
         <mxCell id="DPHO6qK32BSScO_TgHHg-48" value="$$q_t^{entropy}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="1870" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DPHO6qK32BSScO_TgHHg-49" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DPHO6qK32BSScO_TgHHg-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1660" as="sourcePoint" />
+            <mxPoint x="530" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
