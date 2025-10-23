@@ -360,8 +360,8 @@
         <mxCell id="DPHO6qK32BSScO_TgHHg-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;Map Entropy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;Entropy Calculator&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1600" width="80" height="40" as="geometry" />
+        <mxCell id="DPHO6qK32BSScO_TgHHg-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;\Delta H_{\text{path}}(q)&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;=\sum_{p:q\in \text{match\_area}(p)}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;\phi_{\text{vis}}(q,p)\cdot&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;\tfrac{1}{2}\ln\frac{|S_{pq}(q)|}{|\Sigma_y|}$$&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1600" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
