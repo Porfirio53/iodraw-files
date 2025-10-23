@@ -343,10 +343,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-13" value="$$\mathcal{G}\subset\mathbb{Z}^2$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1550" width="60" height="30" as="geometry" />
+          <mxGeometry x="140" y="1550" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-14" value="$$q_0$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1580" width="60" height="30" as="geometry" />
+          <mxGeometry x="140" y="1580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -391,16 +391,16 @@
           <mxGeometry x="482.5" y="1620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;Joint Gain Calculator&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1560" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="1560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DPHO6qK32BSScO_TgHHg-30" target="DPHO6qK32BSScO_TgHHg-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="1660" as="sourcePoint" />
-            <mxPoint x="600" y="1660" as="targetPoint" />
+            <mxPoint x="520" y="1660" as="sourcePoint" />
+            <mxPoint x="640" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-33" value="$$q_t^{entropy}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1640" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="1640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-34" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Ours&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="1680" width="60" height="30" as="geometry" />
