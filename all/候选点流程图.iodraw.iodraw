@@ -343,41 +343,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DPHO6qK32BSScO_TgHHg-7" target="DPHO6qK32BSScO_TgHHg-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="1940" as="sourcePoint" />
-            <mxPoint x="160" y="1850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-10" value="$$q_t^{entropy}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1640" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Score&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1560" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DPHO6qK32BSScO_TgHHg-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="1860" as="sourcePoint" />
-            <mxPoint x="440" y="1640" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="1620" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-13" value="$$\mathcal{G}\subset\mathbb{Z}^2$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="1550" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-14" value="$$q_0$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="1570" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-15" value="$$\Delta H_t(x,y,\theta)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1550" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-16" value="$$E_t(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="1600" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-17" value="$$\widehat{\theta}(x,y)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
