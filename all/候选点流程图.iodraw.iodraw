@@ -343,10 +343,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-13" value="$$\mathcal{G}\subset\mathbb{Z}^2$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1570" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="1550" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-14" value="$$q_0$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1610" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="1580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
