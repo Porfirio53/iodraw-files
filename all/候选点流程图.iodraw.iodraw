@@ -363,7 +363,7 @@
         <mxCell id="DPHO6qK32BSScO_TgHHg-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;$$&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1600" width="900" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-22" value="$$\Delta H$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DPHO6qK32BSScO_TgHHg-22" value="$$&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;\Delta H_{\text{path}}(q)&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;=\sum_{p:q\in \text{match\_area}(p)}&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;\phi_{\text{vis}}(q,p)\cdot&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;\tfrac{1}{2}\ln\frac{|S_{pq}(q)|}{|\Sigma_y|}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="1800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
