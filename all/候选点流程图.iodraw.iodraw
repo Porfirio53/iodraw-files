@@ -390,8 +390,8 @@
         <mxCell id="DPHO6qK32BSScO_TgHHg-29" value="$$\Delta H_{\text{path}}(q)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="1620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;Map Entropy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1530" width="80" height="40" as="geometry" />
+        <mxCell id="DPHO6qK32BSScO_TgHHg-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;Joint Gain Calculator&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
