@@ -393,10 +393,10 @@
         <mxCell id="DPHO6qK32BSScO_TgHHg-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;Joint Gain Calculator&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DPHO6qK32BSScO_TgHHg-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="DPHO6qK32BSScO_TgHHg-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DPHO6qK32BSScO_TgHHg-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="1660" as="sourcePoint" />
-            <mxPoint x="530" y="1610" as="targetPoint" />
+            <mxPoint x="600" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
