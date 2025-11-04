@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$\Delta H_{\text{map}}(q) = \frac{1}{|\Sigma_{kk}(q)|} \sum_{x \in \mathcal{F}_t \cap \mathcal{V}_{\mathcal{G}}(q)} w(q, x)$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="640" width="230" height="40" as="geometry" />
+          <mxGeometry x="200" y="630" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DPHO6qK32BSScO_TgHHg-21" value="$$\Delta H_{\text{path}}(q)=\sum_{p:q\in \text{match_area}(p)} \tfrac{1}{2}\ln\frac{|S_{pq}(q)|}{|\Sigma_y|} $$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="710" width="240" height="60" as="geometry" />
