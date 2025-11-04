@@ -29,7 +29,7 @@
           <mxGeometry x="680" y="425" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;$$Gain_{\mathrm{frontier}}(\mathcal{G}, q) = \big|\mathcal{U}_{\mathrm{vis}}(\mathcal{G}, q)\big|$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="350" y="420" width="190" height="40" as="geometry" />
+          <mxGeometry x="360" y="420" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4KfQx-BjgFMVUmOHCYbj-15" target="4KfQx-BjgFMVUmOHCYbj-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
