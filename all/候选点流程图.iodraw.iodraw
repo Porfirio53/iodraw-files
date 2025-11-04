@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;$$Gain_{\mathrm{frontier}}(\mathcal{G}, q) = \big|\mathcal{U}_{\mathrm{vis}}(\mathcal{G}, q)\big|$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="360" y="420" width="160" height="40" as="geometry" />
+          <mxGeometry x="344" y="420" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Frontier&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="420" width="80" height="40" as="geometry" />
@@ -297,7 +297,7 @@
           <mxGeometry x="50" y="990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qcvp6LH7gequ4dvGnBYx-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Gain Calculator&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="490" y="680" width="60" height="20" as="geometry" />
+          <mxGeometry x="450" y="450" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
