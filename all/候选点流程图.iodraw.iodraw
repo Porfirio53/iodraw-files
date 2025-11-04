@@ -7,7 +7,7 @@
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;$$Gain_{\mathrm{frontier}}(\mathcal{G}, q) = \big|\mathcal{U}_{\mathrm{vis}}(\mathcal{G}, q)\big|$$&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="340" y="420" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4KfQx-BjgFMVUmOHCYbj-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Frontier&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4KfQx-BjgFMVUmOHCYbj-9" value="&lt;p&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;Frontier Detector&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="4KfQx-BjgFMVUmOHCYbj-9" edge="1">
@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-52" value="$$q_t^{nbv}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="515" width="60" height="30" as="geometry" />
+          <mxGeometry x="540" y="515" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4KfQx-BjgFMVUmOHCYbj-53" value="&lt;font face=&quot;Helvetica&quot;&gt;$$G(\mathcal{G}, {m}_k) = \sum_{i=0}^{n}e^{-\gamma(1 - 2m_t({m}_k^i))}) $$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="510" width="190" height="40" as="geometry" />
